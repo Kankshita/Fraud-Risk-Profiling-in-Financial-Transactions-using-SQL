@@ -7,7 +7,9 @@ SQL-based fraud analytics project analyzing 555K+ financial transactions to iden
 
 fraud-analytics-sql/
 
-│                                                                                                                                                                      ├── schema.sql       # Table creation scripts (DDL)
+│ 
+
+├── schema.sql       # Table creation scripts (DDL)
 
 ├── queries.sql      # Analytical SQL queries (KPIs, fraud insights)
 
